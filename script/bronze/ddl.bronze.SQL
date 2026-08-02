@@ -40,7 +40,7 @@ create table bronze.crm_sales_details (
 	sls_due_dt int,
 	sls_sales int,
 	sls_quantity int,
-	sls_prices int
+	sls_price int
 );
 
 DROP TABLE IF EXISTS bronze.erp_loc_a101;
