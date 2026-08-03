@@ -1,10 +1,10 @@
 /* 
-============ Stored Procedure: Load Silver Value===========
+======= Stored Procedure: Load Silver Value (Bronze -> Silver)=========
 Purpose:
 Loads the Silver layer by taking raw data from 
 the Bronze schema, applying necessary transformations 
 and cleaning, and inserting it into the target tables.
-===========================================================
+=======================================================================
 */
 
 
