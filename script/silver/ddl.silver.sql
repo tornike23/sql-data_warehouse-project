@@ -46,3 +46,13 @@ CREATE TABLE silver.crm_sales_details (
     sls_quantity  int,
     sls_price     int
 );
+
+
+
+-- no ddl changes for erp_cust_az12
+
+-- no ddl changes for erp_loc_a101
+
+-- no ddl changes for erp_px_cat_g1v2
+
+
